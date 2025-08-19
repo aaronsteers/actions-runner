@@ -9,7 +9,7 @@ authors = [{"name"= "AJ Steers", "email"= "aaronsteers@example.com"}]
 dependencies = []
 
 [project.optional-dependencies]
-dev = ["build", "twine"]
+dev = []
 
 [build-system]
 requires = ["hatchling"]
